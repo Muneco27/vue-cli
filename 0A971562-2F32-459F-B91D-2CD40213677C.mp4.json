@@ -1,0 +1,36 @@
+{
+  "title": "0A971562-2F32-459F-B91D-2CD40213677C.mp4",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1677052871",
+    "formatted": "22 feb 2023, 8:01:11 a.m. UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1668289110",
+    "formatted": "12 nov 2022, 9:38:30 p.m. UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Diosmany Ruiz"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPz1EdV0roRzU-w_Qg0tZ55HhrLrv1OaKSICTGG",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "0e506188-9df3-4692-81b1-f3bb4facaa76.jpg",
+  "description": "",
+  "imageViews": "11",
+  "creationTime": {
+    "timestamp": "1626685143",
+    "formatted": "19 jul 2021, 8:59:03 a.m. UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1585231394",
+    "formatted": "26 mar 2020, 2:03:14 p.m. UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Thayrell"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipN4UW3I5H01vfAZEnQds3M84L8ZP_4CEwR9VYwm",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}
