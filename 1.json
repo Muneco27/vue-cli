@@ -1,0 +1,25 @@
+contentCallbackFunc({
+  "head": {
+    "name": "+14156053836",
+    "member": [
+      ""
+    ]
+  },
+  "body": [
+    {
+      "avatar": "images/PersonHeadshot.png",
+      "sendName": "+14156053836",
+      "position": "left",
+      "time": "2024-02-02 20:57:12",
+      "mediaSize": "0B",
+      "mediaName": "Hey there?",
+      "mediaTime": "Hey there?",
+      "localPath": "media\\",
+      "thumbPath": "media\\",
+      "delete": true,
+      "type": "text",
+      "identifier": "",
+      "msg": "Hey there?"
+    }
+  ]
+})
